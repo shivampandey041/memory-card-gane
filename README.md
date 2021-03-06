@@ -1,1 +1,1 @@
-# memory-card-gane
+# memory-card-game
